@@ -1,0 +1,9 @@
+c:\users\kate\documents\visual studio 2015\Projects\CS327Project1_KR\CS327Project1_KR\bin\Debug\CS327Project1_KR.exe.config
+c:\users\kate\documents\visual studio 2015\Projects\CS327Project1_KR\CS327Project1_KR\bin\Debug\CS327Project1_KR.exe
+c:\users\kate\documents\visual studio 2015\Projects\CS327Project1_KR\CS327Project1_KR\bin\Debug\CS327Project1_KR.pdb
+c:\users\kate\documents\visual studio 2015\Projects\CS327Project1_KR\CS327Project1_KR\obj\Debug\CS327Project1_KR.csprojResolveAssemblyReference.cache
+c:\users\kate\documents\visual studio 2015\Projects\CS327Project1_KR\CS327Project1_KR\obj\Debug\CS327Project1_KR.exe
+c:\users\kate\documents\visual studio 2015\Projects\CS327Project1_KR\CS327Project1_KR\obj\Debug\CS327Project1_KR.pdb
+C:\Users\Kate\Documents\Visual_Studio_2015\Projects\CS327Project1_KR\CS327Project1_KR\bin\Debug\CS327Project1_KR.exe.config
+C:\Users\Kate\Documents\Visual_Studio_2015\Projects\CS327Project1_KR\CS327Project1_KR\obj\Debug\CS327Project1_KR.exe
+C:\Users\Kate\Documents\Visual_Studio_2015\Projects\CS327Project1_KR\CS327Project1_KR\obj\Debug\CS327Project1_KR.pdb
